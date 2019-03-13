@@ -3,3 +3,6 @@
 ################################################################################
 
 /PhoneNumberBuilder/.vs/PhoneNumberBuilder/v14/.suo
+/PhoneNumberBuilder/PhoneNumberBuilder/bin/Debug
+/PhoneNumberBuilder/PhoneNumberBuilder/obj/Debug
+/PhoneNumberBuilder/PhoneNumberBuilder/PhoneNumberBuilder.csproj.user
